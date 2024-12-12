@@ -8,7 +8,7 @@ const PORT = 3000;
 
 // Подключаем переменные окружения
 const TELEGRAM_BOT_TOKEN = 7584473430:AAEIiKWC8QLTvXsL5t5PpdCMum4UkOZaMoM;
-const TELEGRAM_CHAT_ID = process.env.TELEGRAM_CHAT_ID;
+const TELEGRAM_CHAT_ID = -4702734460;
 
 app.use(bodyParser.json());
 
